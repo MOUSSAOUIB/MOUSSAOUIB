@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdeslam Moussaoui
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me moussaouii.abdel@gmail.com
+- 👀 I’m a Telecommunication/Network & IT enginner
+- 🌱 I’m Cybersecurity & Blockcahin technologies enthusiast
+- 💞️ I’m ....
+- 📫 How to reach me moussaouii.abdel@gmail.com & https://www.linkedin.com/in/abdeslam-moussaoui-373180134/
 
 <!---
 MOUSSAOUIB/MOUSSAOUIB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
