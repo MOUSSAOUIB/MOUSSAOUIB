@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdeslam Moussaoui
 - 👀 I’m a Telecommunication/Network & IT enginner
-- 🌱 I’m Cybersecurity & Blockcahin technologies enthusiast
+- 🌱 I am an enthusiast of cybersecurity and blockchain technologies
 - 💞️ I’m ....
 - 📫 How to reach me moussaouii.abdel@gmail.com & https://www.linkedin.com/in/abdeslam-moussaoui-373180134/
 
